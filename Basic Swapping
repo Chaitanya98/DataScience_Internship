@@ -1,0 +1,4 @@
+x=int(input("Enter a number x:"))
+y=int(input("Enter a number y:"))
+x,y=y,x
+print("Values after swapping\nx={},y={}".format(x,y))
