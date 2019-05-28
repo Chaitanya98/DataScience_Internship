@@ -1,5 +1,5 @@
 Write command to get first 10 chracters of a string.
-```py3
+```
 print('FCBarcelona'[:10])
 ```
 
