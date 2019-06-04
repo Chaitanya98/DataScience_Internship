@@ -81,7 +81,7 @@
 	Example:\
 			1st Param: 123\
 			2nd param: 10\
-			Output: "       123"**\
+			Output: "       123"**
 ```			
   while True:
     a=input("Enter a string:")
