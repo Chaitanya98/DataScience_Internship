@@ -1,4 +1,4 @@
-Write command to get first 10 chracters of a string.
+####Write command to get first 10 chracters of a string.
   print('FCBarcelona'[:10])
 
 Write command to get last 10 chracters of a string.
@@ -15,6 +15,7 @@ Write command to get last occurance of 'a' in  'abcdabcd'
 
 Write a command to add space between each of the characters in 'abcdef'
   print(" ".join('abcdef'))
+  
 Write a program to get a string and a character as user inputs, and check, if string starts and/or ends with character passed as parameter also.
   s=input('Enter a string:')
   c=input('Enter a character:')
