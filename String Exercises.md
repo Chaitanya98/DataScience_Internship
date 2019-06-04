@@ -57,15 +57,15 @@
 ```
   print("kjdbdkdfn".upper())
 ```
-**Write a program to get 3 parameters : 
-	1. A string and 
-	2. A part of the string to be replaced 
-	3. A string to replace the part 
-	as user inputs, and replace all occurances of from char/string with to char/string and print updated string.
-  Example: 
-  			1st Param: abcdefgh 
-			2nd Param: abc
-			3rd Param: xyz
+**Write a program to get 3 parameters : \
+	1. A string and \
+	2. A part of the string to be replaced \
+	3. A string to replace the part \
+	as user inputs, and replace all occurances of from char/string with to char/string and print updated string.\
+  Example: \
+  			1st Param: abcdefgh \
+			2nd Param: abc\
+			3rd Param: xyz\
 			Output: xyzdefgh**
 ```
   st=input('Enter a string:')
@@ -73,15 +73,15 @@
   strep=input('Enter the part to replace it with:')
   print(st.replace(stpres,strep))
 ```	
-**Write a program that takes below as parameters:
-		1. A integer
+**Write a program that takes below as parameters:\
+		1. A integer\
 		2. length
 	Exercise1: Trim spaces around string passed as paramter and pads spaces on left 
-	Exercise2: If user entered non numeric value, keep asking user to enter valid integer as input until proper integer is given as input.
-	Example:
-			1st Param: 123
-			2nd param: 10
-			Output: "       123"**
+	Exercise2: If user entered non numeric value, keep asking user to enter valid integer as input until proper integer is given as input.\
+	Example:\
+			1st Param: 123\
+			2nd param: 10\
+			Output: "       123"**\
 ```			
   while True:
     a=input("Enter a string:")
