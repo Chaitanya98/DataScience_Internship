@@ -36,7 +36,7 @@
     print("Character doesn't end with",c)
 ```
 **Write a command to add spaces around a string passed as parameter to make string 20 characters long and make text center aligned.**
-**Example: if 'abc' is input, output is '       abc         ' **
+**Example: if 'abc' is input, output is '       abc         '**
 ```
   st='FCBarcelona'
   print(st.center(20))
